@@ -202,9 +202,9 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                 <div class="col-lg-6">
                     <div class="contact-map mt-60">
                         <div class="gmap_canvas"> 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d204.4610541203434!2d-57.9602298!3d-34.9220842!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a2e62d6065ce1b%3A0xb0d422b374666c16!2sCalle%2048%201044%2C%20B1900ANT%20La%20Plata%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1627505506129!5m2!1ses-419!2sar" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
-                        
 
+                        
+    <iframe width="369" height="208" src="https://www.youtube.com/embed/oEhDaf7JhLo" title="2021 Cerca electrico industrial / Royal Security" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -525,7 +525,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="copyright-text text-center pt-20">
-                            <p>Copyright © 2022. Template Crafted by <a href="https://uideck.com" rel="nofollow">UIdeck</a></p>
+                            <p>Copyright © 2024. Template Crafted by <a href="https://uideck.com" rel="nofollow">UIdeck</a></p>
                         </div> <!-- copyright text -->
                     </div>
                 </div> <!-- row -->
