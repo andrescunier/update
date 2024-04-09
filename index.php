@@ -262,7 +262,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 <div class="section-title text-center pb-30">
     <div class="line m-auto"></div>
     <h2 class="title">CONFIAN EN NOSOTROS</h2>
-    <h3 style="color:#60817a;">Siempre listos para atenderlos</h3>
+    <h3 style="color:#60817a;">CLIENTES</h3>
     </div> 
 </div>
 </div>
@@ -280,20 +280,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 
 
 <div class="col-lg-12 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Nutrici&oacute;n 
-</h5>
-<p class="text">Lic.Rabe Ailen
- 
- </br>Especialista en Nutrici&oacute;n
 
-</br> MP 5724</p>
-</div>
 </div> 
 </div>
  
@@ -305,12 +292,9 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 </div>
 </div>
 <div class="team-content">
-<h5 class="holder-name" >Pediatr&iacute;a </h5>
-<p class="text">Dra. Curzel María Cecilia 
- 
- </br>Especialista en Pediatría y Neonatología 
-
-</br>MP 117690 </p>
+<h5 class="holder-name" >ANCAP</h5>
+<img src="assets/images/ancap_cuadrado (1).png" alt="" srcset="">
+<p class="text">Buena atención, excelente soporte postventa.</p>
 </div>
 </div> 
 </div>
@@ -330,141 +314,13 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 </div>
 </div>
 <div class="team-content">
-<h5 class="holder-name" >Cl&iacute;nica M&eacute;dica</h5>
-<p class="text">Dra.Giudice Marina
- 
- </br>Especialista Jerarquizada  en Dermatolog&iacute;a
- </br> MP112884</p>
+<h5 class="holder-name" >Esso</h5>
+<img src="assets/images/esso_cuadrado.png" alt="" srcset="">
+<p class="text">Solucionaron nuestro problema en tiempo y forma</p>
 
 </div>
 </div> 
 </div>
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
-<div class="team-image">
-
-<div class="social">
-
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Pediatr&iacute;a </h5>
-<p class="text">Dra. María Ángeles Azrak 
- 
- </br> Médica consultor en Pediatría.</br>MP 111473 </p>
-</div>
-</div> 
-</div>
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Cl&iacute;nica M&eacute;dica </h5>
-<p class="text">Dr. Gioiosa Marcelo A. 
- 
- </br>Especialista en Cl&iacute;nica M&eacute;dica
-
-</br>MP 117491 </p>
-</div>
-</div> 
-</div>
-
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Pediatr&iacute;a </h5>
-<p class="text">Dra. Picone Maria Florencia 
-
-
- </br>Especialista Jerarquizada en Pediatría y Neonatología
-
-</br>MP 111508 </p>
-</div>
-</div> 
-</div>
-
-
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Cl&iacute;nica M&eacute;dica </h5>
-<p class="text">Dra. Rosselli Julieta
-
-
- </br>Especialista Jerarquizada  en Cl&iacute;nica M&eacute;dica
-
-</br>MP 113445 </p>
-</div>
-</div> 
-</div>
-
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Infectolog&iacute;a  </h5>
-<p class="text">Dra.Anabella Greco
- 
- </br>Especialista en Infectolog&iacute;a
-
-</br> MP231357</p>
-</div>
-</div> 
-</div>
-
-
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Dermatolog&iacute;a  </h5>
-<p class="text">Dra.Mar&iacute;a Agustina Sicre
- 
- </br>Dermatolog&iacute;a
-
-</br> MP119370</p>
-</div>
-</div> 
-</div>
-
-
-
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Cl&iacute;nica M&eacute;dica
-</h5>
-<p class="text">Dra.Aguilera Roxana
- 
- </br>Especialista   en Cl&iacute;nica M&eacute;dica
-
-</br> MP117292</p>
-</div>
-</div> 
-</div>
-
-
 
 
 
