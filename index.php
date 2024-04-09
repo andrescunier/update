@@ -501,13 +501,13 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                     <div class="col-lg-8">
                         <div class="footer-content text-center">
                             <a href="index.html">
-                                <img src="assets/images/logo-2.png" alt="Logo">
+                                <img src="assets/images/logo.png" alt="Logo">
                             </a>
                             <p class="mt-">SEGURIDAD EMPRESARIAL</p>
                             <ul>
-                                <li><a href="https://www.facebook.com/cemec.laplata"><i class="lni lni-facebook-filled"></i></a></li>
+                           <!--      <li><a href="https://www.facebook.com/cemec.laplata"><i class="lni lni-facebook-filled"></i></a></li>
                                 <li><a href="https://www.instagram.com/cemec.laplata/#"><i class="lni lni-instagram"></i></a></li>
-                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li>
+                                <li><a href="#"><i class="lni lni-linkedin-original"></i></a></li> -->
 
 
 
