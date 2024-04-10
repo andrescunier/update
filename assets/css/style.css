@@ -71,7 +71,7 @@ h5,
 h6 {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
-  color: #32333c;
+  color: #f1a707;
   margin: 0px; }
 
 h1 {
@@ -125,7 +125,7 @@ p {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  border: 1px solid #60817a;
+  border: 1px solid #bea925;
   padding: 0 40px;
   font-size: 15px;
   line-height: 48px;
@@ -141,7 +141,7 @@ p {
   -webkit-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
   -moz-box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
   box-shadow: 0px 5px 8px 0px rgba(118, 78, 249, 0.55);
-  background-color: #60817a;
+  background-color: #bea925;
   text-transform: uppercase; }
   .main-btn:hover {
     background-color: #fff;

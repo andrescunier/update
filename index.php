@@ -111,7 +111,7 @@
 
 
  <!--====== ABOUT PART START ======-->
-
+</br>
  <section id="about" class="about-area pt-125 pb-130">
         <div class="container">
             <div class="row justify-content-center">
@@ -194,7 +194,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                             </div> <!-- single form -->
                             <p class="form-message"></p>
                             <div class="single-form">
-                                <button class="main-btn" type="submit" style="border-color: #bea925;color:white;">Enviar Mensaje</button>
+                                <button class="main-btn" type="submit" >Enviar Mensaje</button>
                             </div> <!-- single form -->
                         </form>
                     </div> <!-- contact form -->
@@ -218,7 +218,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                 <div class="col-lg-4 col-md-6 col-sm-7">
                     <div class="contact-box text-center mt-30">
                         <div class="contact-icon">
-                            <i class="lni lni-postcard"></i>
+                            <i style="color:#ffc107;" class="lni lni-postcard"></i>
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Dirección</h6>
@@ -229,7 +229,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                 <div class="col-lg-4 col-md-6 col-sm-7">
                     <div class="contact-box text-center mt-30">
                         <div class="contact-icon">
-                            <i class="lni lni-phone"></i>
+                            <i class="lni lni-phone" style="color:orange;" ></i>
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Telefono</h6>
@@ -240,7 +240,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                 <div class="col-lg-4 col-md-6 col-sm-7">
                     <div class="contact-box text-center mt-30">
                         <div class="contact-icon">
-                            <i class="lni lni-envelope"></i>
+                            <i class="lni lni-envelope" style="color:orange;" ></i>
                         </div>
                         <div class="contact-content">
                             <h6 class="contact-title">Email</h6>
@@ -261,8 +261,8 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 <div class="col-lg-8">
 <div class="section-title text-center pb-30">
     <div class="line m-auto"></div>
-    <h2 class="title">CONFIAN EN NOSOTROS</h2>
-    <h3 style="color:#60817a;">CLIENTES</h3>
+    <h2 class="title" >CONFIAN EN NOSOTROS</h2>
+    <h3 style="color:orange;">CLIENTES</h3>
     </div> 
 </div>
 </div>
@@ -294,7 +294,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 <div class="team-content">
 <h5 class="holder-name" >ANCAP</h5>
 <img src="assets/images/ancap_cuadrado (1).png" alt="" srcset="">
-<p class="text">Buena atención, excelente soporte postventa.</p>
+<p class="text">"Buena atención, excelente soporte postventa."</p>
 </div>
 </div> 
 </div>
@@ -316,7 +316,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 <div class="team-content">
 <h5 class="holder-name" >Esso</h5>
 <img src="assets/images/esso_cuadrado.png" alt="" srcset="">
-<p class="text">Solucionaron nuestro problema en tiempo y forma</p>
+<p class="text">"Solucionaron nuestro problema en tiempo y forma"</p>
 
 </div>
 </div> 
