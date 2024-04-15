@@ -10,6 +10,12 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="Seguridad, Montevideo , Camaras ,Cercos">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+
+
 
     <!--====== Title ======-->
     <title>Seguridad empresarial &#8211; Video vigilancia en Alta definición</title>
@@ -51,35 +57,9 @@
 </head>
 
 <body>
-
-
-
-
-
-    <!--====== PRELOADER PART START ======-->
-
-    <div class="preloader">
-        <div class="loader_34">
-            <div class="ytp-spinner">
-                <div class="ytp-spinner-container">
-                    <div class="ytp-spinner-rotator">
-                        <div class="ytp-spinner-left">
-                            <div class="ytp-spinner-circle"></div>
-                        </div>
-                        <div class="ytp-spinner-right">
-                            <div class="ytp-spinner-circle"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!--====== PRELOADER ENDS START ======-->
-
     <!--====== HEADER PART START ======-->
 
-    <header id="home" class="header-area">
+    <header id="home" class="header-area" style="max-height: 110px;">
         <div class="navigation fixed-top">
             <div class="container">
                 <div class="row">
@@ -112,13 +92,13 @@
 
  <!--====== ABOUT PART START ======-->
 </br>
- <section id="about" class="about-area pt-125 pb-130">
+ <section id="about" class="about-area pt-125 pb-130" >
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-8">
                     <div class="section-title text-center">
-                        <h2 class="title">CAMARAS DE SEGURIDAD</h2>
-                        <h4 style="color:black;">Somos instaladores oficiales de la línea Hikvision, marca líder en el rubro de seguridad.</h4>
+                        <h2 class="title">SERVICIOS PROFESIONALES</h2>
+                        <h4 style="color:black;">Somos instaladores oficiales de la línea Hikvision.</h4>
                     </div> <!-- section title -->
                 </div>
             </div>
@@ -138,19 +118,12 @@
                     </br>
                     </br>
                     </br>
-                        <h3 class="about-title" style="color: black;">Nuestros sistemas incluyen:</br>
-
-*Imágenes coloridas aun en la noche</br>
-
-*Detección inteligente en caso de cruces de línea por humanos o vehículos</br>
-
-*Aviso de alarmas mediante app y monitoreo de las cámaras remotamente</br>
-
- 
-
-Consulte por instalaciones desde cero o actualización de su sistema, sacando provecho de su inversión anterior.</br>
-</br>
-Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
+                        <h3 class="about-title" style="color: black;">Marcamos la diferencia gestionando los proyectos </br>
+                        de forma personalizada.</br> 
+                        Incorporamos tecnologìa integral,
+                        permitiéndole ganar en tiempo, seguridad, </br>
+                         control y eficiencia en la gestión.</br>
+Lo invitamos a navegar en nuestra web </br>para conocer más sobre nosotros.</h3>
 
                         
 
@@ -188,6 +161,9 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                             </div> <!-- single form -->
                             <div class="single-form">
                                 <input type="email" name="email" placeholder="Email">
+                            </div> <!-- single form -->
+                            <div class="single-form">
+                                <input type="number" name="phone" placeholder="Teléfono">
                             </div> <!-- single form -->
                             <div class="single-form">
                                 <textarea name="message" placeholder="Mensaje"></textarea>
@@ -278,50 +254,58 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
 
 
 
-
-<div class="col-lg-12 col-md-7 col-sm-8">
-
-</div> 
-</div>
- 
+<div class="container">
 <div class="row justify-content-center">
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.8s">
-<div class="team-image">
-<div class="social">
+
+  <div id="myCarousel" class="carousel slide" data-ride="carousel" >
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+      <li data-target="#myCarousel" data-slide-to="4"></li>
+      <li data-target="#myCarousel" data-slide-to="5"></li>
+    </ol>
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-inner">
+      <div class="item active">
+        <img src="ancap.png" alt="Ancap" >  
+    </div>
+
+      <div class="item">
+        <img src="conexo.png" alt="Grupo Conexo" >
+      </div>
+      <div class="item">
+        <img src="del_museo.png" alt="Del Museo" >
+      </div>
+    
+      <div class="item">
+        <img src="pio_gris.png" alt="Colegio Pio" >
+      </div>
+   
+      <div class="item">
+        <img src="queens_gris.png" alt="Queens" >
+      </div>
+      <div class="item">
+        <img src="san-pablo.png" alt="Colegio San Pablo" >
+      </div>
+
+ 
+   
+    <!-- Left and right controls -->
+    <!-- <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span class="sr-only">Next</span>
+    </a> -->
+  </div>
 </div>
 </div>
-<div class="team-content">
-<h5 class="holder-name" >ANCAP</h5>
-<img src="assets/images/ancap_cuadrado (1).png" alt="" srcset="">
-<p class="text">"Buena atención, excelente soporte postventa."</p>
-</div>
-</div> 
-</div>
-
-
-
-
-
-
-
-
-
-<div class="col-lg-4 col-md-7 col-sm-8">
-<div class="single-team text-center mt-30 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-<div class="team-image">
-<div class="social">
-</div>
-</div>
-<div class="team-content">
-<h5 class="holder-name" >Esso</h5>
-<img src="assets/images/esso_cuadrado.png" alt="" srcset="">
-<p class="text">"Solucionaron nuestro problema en tiempo y forma"</p>
-
-</div>
-</div> 
-</div>
-
 
 
 
@@ -359,7 +343,7 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
                             <a href="index.html">
                                 <img src="assets/images/logo.png" alt="Logo">
                             </a>
-                            <p class="mt-">SEGURIDAD EMPRESARIAL</p>
+                            <p class="mt-">-SERVICIOS PROFESIONALES-</p>
                             <ul>
                            <!--      <li><a href="https://www.facebook.com/cemec.laplata"><i class="lni lni-facebook-filled"></i></a></li>
                                 <li><a href="https://www.instagram.com/cemec.laplata/#"><i class="lni lni-instagram"></i></a></li>
@@ -434,59 +418,4 @@ Solicite un asesor sin costo, mediante formulario o al </br>097 60 60 60</h3>
     <script src="assets/js/main.js"></script>
 
 </body>
-
-
-
-<?php
-/**
- * @version 1.0
- */
-
-
-// Valores enviados desde el formulario
-
-    
-
-
-
-// Datos de la cuenta de correo utilizada para enviar vía SMTP
-$smtpHost = "c2451219.ferozo.com";  // Dominio alternativo brindado en el email de alta 
-$smtpUsuario = "no-reply@update.com.uy";  // Mi cuenta de correo
-$smtpClave = "f5*YKRk0HB";  // Mi contraseña
-
-// Email donde se enviaran los datos cargados en el formulario de contacto
-$emailDestino = "afrutos@gmail.com";
-
-$mail = new PHPMailer();
-$mail->IsSMTP();
-$mail->SMTPAuth = true;
-$mail->Port = 465; 
-$mail->SMTPSecure = 'ssl';
-$mail->IsHTML(true); 
-$mail->CharSet = "utf-8";
-
-
-// VALORES A MODIFICAR //
-$mail->Host = $smtpHost; 
-$mail->Username = $smtpUsuario; 
-$mail->Password = $smtpClave;
-
-$mail->From = $email; // Email desde donde envío el correo.
-$mail->FromName = $nombre;
-$mail->AddAddress($emailDestino); // Esta es la dirección a donde enviamos los datos del formulario
-
-$mail->Subject = "Contacto desde Pagina"; // Este es el titulo del email.
-$mensajeHtml = nl2br($mensaje);
-$mail->Body = "{$mensajeHtml} <br /><br />Contacto desde Pagina <br />"; // Texto del email en formato HTML
-$mail->AltBody = "{$mensaje} \n\n UPDATE"; // Texto sin formato HTML
-// FIN - VALORES A MODIFICAR //
-
-$estadoEnvio = $mail->Send(); 
-
-
-?>
-
-
-
-
 </html>
